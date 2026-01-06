@@ -1,8 +1,8 @@
 # FlappyAI (python)
 
 A Flappy Bird Clone made with `turtle` including a simple  
-neural network an evolutionary training to let the AI  
-learn to play th game by itself
+neural network and evolutionary training to let the AI  
+learn to play the game by itself
 
 ### Used Libraries:
 - turtle
@@ -12,7 +12,7 @@ learn to play th game by itself
 - json
 - copy
 
-### Starting the programm you are given 3 options:
+### Starting the program you are given 3 options:
  - Play
  - Train AI
  - Let AI play from Trainingdata
