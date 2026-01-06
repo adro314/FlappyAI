@@ -4,7 +4,7 @@ A Flappy Bird Clone made with `turtle` including a simple
 neural network an evolutionary training to let the AI  
 learn to play th game by itself
 
-### Used Libraries:  
+### Used Libraries:
 - turtle
 - keyboard
 - random
@@ -12,15 +12,15 @@ learn to play th game by itself
 - json
 - copy
 
-### Starting the programm you are given 3 options: 
+### Starting the programm you are given 3 options:
  - Play
  - Train AI
  - Let AI play from Trainingdata
 
-#### Play:  
+#### Play:
 You can play FlappyBird yourself
 
-#### Train AI:  
+#### Train AI:
 You are asked about the parameters  
 to use for training the AI  
 Then the AI starts training  
@@ -30,7 +30,7 @@ to save the trainingdata
 containing the "brain" of  
 the AI
 
-#### Let AI play from Trainingdata:  
+#### Let AI play from Trainingdata:
 You give the AI the name  
 of the file with the  
 Trainingdata and it plays  
